@@ -1,0 +1,31 @@
+train: /home/shakir/dataset/images/train
+val: /home/shakir/dataset/images/val
+test: /home/shakir/dataset/images/test  # если есть тестовые данные
+
+nc: 25
+names:
+  - airplane
+  - bear
+  - bicycle
+  - boat
+  - bus
+  - cat
+  - cup
+  - deer
+  - elephant
+  - horse
+  - backpack
+  - bird
+  - bottle
+  - car
+  - cow
+  - dog
+  - handbag
+  - motorcycle
+  - person
+  - sheep
+  - suitcase
+  - train
+  - truck
+  - umbrella
+  - wine glass
